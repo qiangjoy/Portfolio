@@ -2,6 +2,9 @@
 
 This repository holds all of the code, data, and visuals from my projects.
 
+Food Classification with Python
+- Nutrition-based food classification using 33 nutritional features across 2,000+ items, Random Forest classifier to categorize foods into 4 distinct groups
+
 Housing Market Price Prediction with Python
 - Analyze and predict housing prices using regression models and key features like square footage, bedrooms, and floors to identify market trends and insights.
 
